@@ -165,6 +165,8 @@ h5 {
     padding: 25px;
     text-align: center;
     background-color: #8F8F8F;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .content {
