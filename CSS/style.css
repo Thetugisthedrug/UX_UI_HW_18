@@ -6,19 +6,20 @@
 }
 
 .logo {
-    width: 23%;
+    width: 60%;
     padding: 1%;
-    text-align: center;
+    text-align: right;
 }
 
 nav {
-    width: 73%;
+    width: 35%;
     padding: 1%;
 }
 
 #navBar {
     background-color: #8F8F8F;
     height: 48px;
+    width: 100vw;
 }
 
 ul {
